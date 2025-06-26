@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Colmap/OpenMVS junk
+*.bin
+*.ply
+*.mvs
+*.log
+*.ini
+*.db
+
+# SAM weights
+scripts/Mask_Generation/weights/
+
+.DS_Store
+
+README.pdf
