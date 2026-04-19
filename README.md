@@ -43,7 +43,7 @@ actually works.
 | Scene             | PSNR    | SSIM   | Reconstruction time |
 |-------------------|---------|--------|---------------------|
 | Chair             | 24.3 dB | 0.985  | ~45 min             |
-| Monkey figurine   | (add)   | (add)  | ~45 min             |
+| Monkey figurine   | 24.7 dB | 0.987  | ~45 min             |
 
 Stack: `SAM` · `COLMAP` · `OpenMVS` · `OpenCV` · `Open3D` · `Python`
 
